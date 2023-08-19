@@ -23,15 +23,17 @@ A machine or an environment (Google Colab or Kaggle etc.) that supports:
 
 1. What are embeddings?
 2. What are vector databases?
-3. Building a search engine
-4. Pick a textbook
-    - Create chunks from the book pages
+3. What is Retrieval Augmented Generation (RAG)?
+4. Building a search engine
+    - Select textbook (will be preselected)
+    - Create chunks from the book pages using LangChain text splitter utilities
     - Embed chunks in Chroma
     - Build a query service
+    - RAG to summarize the user question
     - Host with FastAPI, if time permits
-4. Troubleshooting
-5. Q&A, Discussion
-6. Appendix
+5. Troubleshooting
+6. Q&A, Discussion
+7. Appendix
     - Tooling
     - Python Ecosystem
 
