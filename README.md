@@ -24,16 +24,16 @@ A machine or an environment (Google Colab or Kaggle etc.) that supports:
 1. What are embeddings?
 2. What are vector databases?
 3. Building a search engine
-  - Pick a textbook
-  - Create chunks from the book pages
-  - Embed chunks in Chroma
-  - Build a query service
-  - Host with FastAPI, if time permits
+4. Pick a textbook
+    - Create chunks from the book pages
+    - Embed chunks in Chroma
+    - Build a query service
+    - Host with FastAPI, if time permits
 4. Troubleshooting
 5. Q&A, Discussion
 6. Appendix
-  - Tooling
-  - Python Ecosystem
+    - Tooling
+    - Python Ecosystem
 
 Skeleton utilities for all these will be provided for the workshop.
 
