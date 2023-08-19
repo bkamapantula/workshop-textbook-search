@@ -1,5 +1,4 @@
-# Workshop on creating a textbook search app
-A search application for textbooks.
+# Creating a textbook search app
 
 This workshop
 - is an introduction to the Python ecosystem of embeddings, vector databases.
