@@ -16,7 +16,7 @@ A machine or an environment (Google Colab or Kaggle etc.) that supports:
 - [LangChain](https://python.langchain.com/docs/get_started/installation)
   - We will use [Chroma](https://docs.trychroma.com/getting-started), an open-source and lightweight embedding database.
 - Pandas, for data transformations
-- [SQLite]([url](https://www.sqlite.org/index.html)https://www.sqlite.org/index.html), [SQLite browser](https://sqlitebrowser.org/)https://sqlitebrowser.org/ - to view the records.
+- [SQLite]([url](https://www.sqlite.org/index.html)https://www.sqlite.org/index.html), [SQLite browser](https://sqlitebrowser.org/) to view the records.
 - [FastAPI](https://fastapi.tiangolo.com/#installation), uvicorn
 
 ## Outline
