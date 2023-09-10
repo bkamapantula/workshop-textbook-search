@@ -17,6 +17,7 @@ A machine or an environment (Google Colab or Kaggle etc.) that supports:
 - Pandas, for data transformations
 - [SQLite]([url](https://www.sqlite.org/index.html)https://www.sqlite.org/index.html), [SQLite browser](https://sqlitebrowser.org/) to view the records.
 - [FastAPI](https://fastapi.tiangolo.com/#installation), uvicorn
+- Create an API Key with OpenAI. [Sign-up](https://platform.openai.com/account/api-keys) and create an API key.
 
 ## Outline
 
