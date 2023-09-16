@@ -6,6 +6,10 @@ This workshop
 - is designed to be delivered in-person.
 - not a deep dive in to all the technologies involved.
 
+## Google Colab
+
+Visit [https://bit.ly/techspace-llm-workshop](https://bit.ly/techspace-llm-workshop) for the workshop.
+
 ## Prerequisites
 
 I recommend to keep the workshop contained in a conda environment, if you can.
