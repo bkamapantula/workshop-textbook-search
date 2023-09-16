@@ -6,9 +6,9 @@ This workshop
 - is designed to be delivered in-person.
 - not a deep dive in to all the technologies involved.
 
-## Google Colab
+## Google Colab notebook
 
-Visit [https://bit.ly/techspace-llm-workshop](https://bit.ly/techspace-llm-workshop) for the workshop.
+Visit [https://bit.ly/techspace-llm-workshop](https://bit.ly/techspace-llm-workshop) for the workshop material on Google colab notebook.
 
 ## Prerequisites
 
